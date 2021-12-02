@@ -4,19 +4,15 @@ namespace ProductiveCSharp
 {
     public class Program
     {
-        public delegate void Display(int n);
-
-        public delegate int Operation(int a, int b);
-
         public static void Main()
-        {
-            Display display = new Printer().PrettyPrint;
-            Operation operation = Product;
+        {           
 
-            Calculate(display, operation);
+            Calculate(
+                n => Console.WriteLine("Result is " + n), 
+                (a, b) => a * b);
         }
 
-        private static void Calculate(Display display, Operation operation)
+        private static void Calculate(Action<int> display, Func<int, int, int> operation)
         {
             var a = int.Parse(Console.ReadLine());
             var b = int.Parse(Console.ReadLine());
@@ -24,21 +20,6 @@ namespace ProductiveCSharp
             var result = operation(a, b);
 
             display(result);
-        }
-
-        private static int Sum(int a, int b)
-        {
-            return a + b;
-        }
-
-        private static int Product(int a, int b)
-        {
-            return a * b;
-        }
-
-        private static void Print(int n)
-        {
-            Console.WriteLine("Result is " + n);
-        }
+        }                   
     }
 }

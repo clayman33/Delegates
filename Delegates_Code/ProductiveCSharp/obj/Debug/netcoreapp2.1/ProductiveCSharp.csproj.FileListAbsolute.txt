@@ -1,0 +1,13 @@
+C:\Users\Christian Layman\Source\repos\Delegates\Delegates_Code\ProductiveCSharp\bin\Debug\netcoreapp2.1\ProductiveCSharp.deps.json
+C:\Users\Christian Layman\Source\repos\Delegates\Delegates_Code\ProductiveCSharp\bin\Debug\netcoreapp2.1\ProductiveCSharp.runtimeconfig.json
+C:\Users\Christian Layman\Source\repos\Delegates\Delegates_Code\ProductiveCSharp\bin\Debug\netcoreapp2.1\ProductiveCSharp.runtimeconfig.dev.json
+C:\Users\Christian Layman\Source\repos\Delegates\Delegates_Code\ProductiveCSharp\bin\Debug\netcoreapp2.1\ProductiveCSharp.dll
+C:\Users\Christian Layman\Source\repos\Delegates\Delegates_Code\ProductiveCSharp\bin\Debug\netcoreapp2.1\ProductiveCSharp.pdb
+C:\Users\Christian Layman\Source\repos\Delegates\Delegates_Code\ProductiveCSharp\obj\Debug\netcoreapp2.1\ProductiveCSharp.csproj.AssemblyReference.cache
+C:\Users\Christian Layman\Source\repos\Delegates\Delegates_Code\ProductiveCSharp\obj\Debug\netcoreapp2.1\ProductiveCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Christian Layman\Source\repos\Delegates\Delegates_Code\ProductiveCSharp\obj\Debug\netcoreapp2.1\ProductiveCSharp.AssemblyInfoInputs.cache
+C:\Users\Christian Layman\Source\repos\Delegates\Delegates_Code\ProductiveCSharp\obj\Debug\netcoreapp2.1\ProductiveCSharp.AssemblyInfo.cs
+C:\Users\Christian Layman\Source\repos\Delegates\Delegates_Code\ProductiveCSharp\obj\Debug\netcoreapp2.1\ProductiveCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Christian Layman\Source\repos\Delegates\Delegates_Code\ProductiveCSharp\obj\Debug\netcoreapp2.1\ProductiveCSharp.dll
+C:\Users\Christian Layman\Source\repos\Delegates\Delegates_Code\ProductiveCSharp\obj\Debug\netcoreapp2.1\ProductiveCSharp.pdb
+C:\Users\Christian Layman\Source\repos\Delegates\Delegates_Code\ProductiveCSharp\obj\Debug\netcoreapp2.1\ProductiveCSharp.genruntimeconfig.cache
