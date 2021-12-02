@@ -1,0 +1,16 @@
+C:\Users\Christian Layman\Source\repos\Delegates\Delegates_Code\ProductiveCSharp\bin\Debug\net5.0\ProductiveCSharp.exe
+C:\Users\Christian Layman\Source\repos\Delegates\Delegates_Code\ProductiveCSharp\bin\Debug\net5.0\ProductiveCSharp.deps.json
+C:\Users\Christian Layman\Source\repos\Delegates\Delegates_Code\ProductiveCSharp\bin\Debug\net5.0\ProductiveCSharp.runtimeconfig.json
+C:\Users\Christian Layman\Source\repos\Delegates\Delegates_Code\ProductiveCSharp\bin\Debug\net5.0\ProductiveCSharp.runtimeconfig.dev.json
+C:\Users\Christian Layman\Source\repos\Delegates\Delegates_Code\ProductiveCSharp\bin\Debug\net5.0\ProductiveCSharp.dll
+C:\Users\Christian Layman\Source\repos\Delegates\Delegates_Code\ProductiveCSharp\bin\Debug\net5.0\ref\ProductiveCSharp.dll
+C:\Users\Christian Layman\Source\repos\Delegates\Delegates_Code\ProductiveCSharp\bin\Debug\net5.0\ProductiveCSharp.pdb
+C:\Users\Christian Layman\Source\repos\Delegates\Delegates_Code\ProductiveCSharp\obj\Debug\net5.0\ProductiveCSharp.csproj.AssemblyReference.cache
+C:\Users\Christian Layman\Source\repos\Delegates\Delegates_Code\ProductiveCSharp\obj\Debug\net5.0\ProductiveCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Christian Layman\Source\repos\Delegates\Delegates_Code\ProductiveCSharp\obj\Debug\net5.0\ProductiveCSharp.AssemblyInfoInputs.cache
+C:\Users\Christian Layman\Source\repos\Delegates\Delegates_Code\ProductiveCSharp\obj\Debug\net5.0\ProductiveCSharp.AssemblyInfo.cs
+C:\Users\Christian Layman\Source\repos\Delegates\Delegates_Code\ProductiveCSharp\obj\Debug\net5.0\ProductiveCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Christian Layman\Source\repos\Delegates\Delegates_Code\ProductiveCSharp\obj\Debug\net5.0\ProductiveCSharp.dll
+C:\Users\Christian Layman\Source\repos\Delegates\Delegates_Code\ProductiveCSharp\obj\Debug\net5.0\ref\ProductiveCSharp.dll
+C:\Users\Christian Layman\Source\repos\Delegates\Delegates_Code\ProductiveCSharp\obj\Debug\net5.0\ProductiveCSharp.pdb
+C:\Users\Christian Layman\Source\repos\Delegates\Delegates_Code\ProductiveCSharp\obj\Debug\net5.0\ProductiveCSharp.genruntimeconfig.cache
