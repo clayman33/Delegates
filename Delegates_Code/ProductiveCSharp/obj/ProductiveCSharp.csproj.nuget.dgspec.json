@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Christian Layman\\Source\\repos\\Delegates\\Delegates_Code\\ProductiveCSharp\\ProductiveCSharp.csproj": {}
+    "C:\\Users\\Christian Layman\\Source\\Repos\\Delegates\\Delegates_Code\\ProductiveCSharp\\ProductiveCSharp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Christian Layman\\Source\\repos\\Delegates\\Delegates_Code\\ProductiveCSharp\\ProductiveCSharp.csproj": {
+    "C:\\Users\\Christian Layman\\Source\\Repos\\Delegates\\Delegates_Code\\ProductiveCSharp\\ProductiveCSharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Christian Layman\\Source\\repos\\Delegates\\Delegates_Code\\ProductiveCSharp\\ProductiveCSharp.csproj",
+        "projectUniqueName": "C:\\Users\\Christian Layman\\Source\\Repos\\Delegates\\Delegates_Code\\ProductiveCSharp\\ProductiveCSharp.csproj",
         "projectName": "ProductiveCSharp",
-        "projectPath": "C:\\Users\\Christian Layman\\Source\\repos\\Delegates\\Delegates_Code\\ProductiveCSharp\\ProductiveCSharp.csproj",
+        "projectPath": "C:\\Users\\Christian Layman\\Source\\Repos\\Delegates\\Delegates_Code\\ProductiveCSharp\\ProductiveCSharp.csproj",
         "packagesPath": "C:\\Users\\Christian Layman\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Christian Layman\\Source\\repos\\Delegates\\Delegates_Code\\ProductiveCSharp\\obj\\",
+        "outputPath": "C:\\Users\\Christian Layman\\Source\\Repos\\Delegates\\Delegates_Code\\ProductiveCSharp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
