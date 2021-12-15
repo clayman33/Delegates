@@ -13,3 +13,4 @@ C:\Users\Christian Layman\Source\repos\Delegates\Delegates_Code\ProductiveCSharp
 C:\Users\Christian Layman\Source\repos\Delegates\Delegates_Code\ProductiveCSharp\obj\Debug\net5.0\ref\ProductiveCSharp.dll
 C:\Users\Christian Layman\Source\repos\Delegates\Delegates_Code\ProductiveCSharp\obj\Debug\net5.0\ProductiveCSharp.pdb
 C:\Users\Christian Layman\Source\repos\Delegates\Delegates_Code\ProductiveCSharp\obj\Debug\net5.0\ProductiveCSharp.genruntimeconfig.cache
+C:\Users\Christian Layman\Source\Repos\Delegates\Delegates_Code\ProductiveCSharp\obj\Debug\net5.0\ProductiveCSharp.csproj.AssemblyReference.cache
